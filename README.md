@@ -1,6 +1,6 @@
 # odin-recipes
 
-Here I will showcase a basic recipe of a favorite dish of mine, my wifes banana bread!
+Here I will showcase a basic recipe of a few favorite desserts of mine!
 
 ##Technologies
 
